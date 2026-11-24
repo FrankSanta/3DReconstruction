@@ -2,7 +2,7 @@
 
 A Python/Jupyter implementation of **two-view 3D reconstruction and food volume estimation**, based on *Two-View 3D Reconstruction for Food Volume Estimation* by Dehais et al. (2017). Starting from two photographs of a meal, the project estimates the relative camera pose, reconstructs a dense 3D point cloud, segments individual food items, and estimates their volumes.
 
-The example scene contains an **apple, a kiwi, a banana, and a pear** on a plate, with a reference card for recovering metric dimensions. The implementation follows the paper's three main stages—**extrinsic calibration, dense reconstruction, and volume estimation**—with the specific algorithms and adaptations described below.
+The example scene contains an **apple, a kiwi, a banana, and a pear** on a plate, with a reference card for recovering metric dimensions. The implementation follows the paper's three main stages, **extrinsic calibration, dense reconstruction, and volume estimation**, with the specific algorithms and adaptations described below.
 
 ## Project structure
 
