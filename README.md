@@ -4,6 +4,12 @@ A Python/Jupyter implementation of **two-view 3D reconstruction and food volume 
 
 The example scene contains an **apple, a kiwi, a banana, and a pear** on a plate, with a reference card for recovering metric dimensions. The implementation follows the paper's three main stages, **extrinsic calibration, dense reconstruction, and volume estimation**, with the specific algorithms and adaptations described below.
 
+### Pose 1
+![Pose 1](pose1.png)
+
+### Pose 2
+![Pose 2](pose2.png)
+
 ## Project structure
 
 ```text
